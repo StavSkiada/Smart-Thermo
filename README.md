@@ -10,7 +10,7 @@
 
 BBC micro:bit v2-Go Bundle: 22,90 ευρώ
 
-LM35 Linear Temperature sensor: 9,5 ευρώ
+LM35 Linear Temperature sensor: 1,5 ευρώ
 
 Κορδέλα υφασμάτινη μαλλιών: 3 - 10 ευρώ
 
