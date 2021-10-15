@@ -12,7 +12,7 @@
 
 Υλικά κατασκευής και ενδεικτικές τιμές: 
 
-  BBC micro:bit v2-Go Bundle: 22,90 ευρώ
+  BBC micro:bit v2-Go Bundle: 2 Χ 22,90 ευρώ = 45,98 ευρώ
 
   LM35 Linear Temperature sensor: 1,5 ευρώ
 
